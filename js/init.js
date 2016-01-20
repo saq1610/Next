@@ -158,6 +158,7 @@
 		$oldWord.removeClass('is-visible').addClass('is-hidden');
 		$newWord.removeClass('is-hidden').addClass('is-visible');
 	}
+      
       $(document).ready(function(){
     $('.tooltipped').tooltip({delay: 50});
     $(".button-collapse").sideNav();
